@@ -1,5 +1,10 @@
 ﻿using System;
 
+//Name: Sasa Subotic
+//Date: 9/5/2019
+//Project Name: Week 2, Deliverable 1: Hello World
+
+
 namespace HelloWorld
 {
     class Program
